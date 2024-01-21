@@ -1,7 +1,6 @@
 
 
-![Masood Husssain header image](https://raw.githubusercontent.com/masood1/masood1/main/images/masood1git.gif)
-
+<img src="https://raw.githubusercontent.com/masood1/masood1/main/images/masood1git.gif" alt="Masood Husssain header image" style="width: 100%;">
 
 
 <h1 align="center">Hi 👋, I'm Masood Hussain</h1>
