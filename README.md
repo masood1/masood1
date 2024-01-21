@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/masood1/masood1/main/images/masood1git2.gif" alt="Masood Husssain header image" style="width: 100%;">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masood1&theme=aura_dark)
 
