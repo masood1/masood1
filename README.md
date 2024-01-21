@@ -4,8 +4,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masood1&theme=aura_dark)
 
-
-Markdown Usage
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=masood1&theme=aura_dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=masood1&theme=aura_dark)
