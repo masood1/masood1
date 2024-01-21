@@ -4,14 +4,13 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masood1&theme=aura_dark)
 
-<div align="center" style="display: flex; justify-content: space-around;">
+<div align="center">
 
-   ![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=masood1&theme=aura_dark)
-
-   ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=masood1&theme=aura_dark)
+| Repos per Language                                     | Stats                                       |
+| ------------------------------------------------------ | ------------------------------------------- |
+| ![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=masood1&theme=aura_dark) | ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=masood1&theme=aura_dark) |
 
 </div>
-
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 
