@@ -2,6 +2,15 @@
 
 <img src="https://raw.githubusercontent.com/masood1/masood1/main/images/masood1git2.gif" alt="Masood Husssain header image" style="width: 100%;">
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masood1&theme=aura_dark)
+
+
+Markdown Usage
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=masood1&theme=aura_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=masood1&theme=aura_dark)
+
+
 - 💬 Ask me about **Javascript, React, Vuejs, Nextjs, Nestjs, Nodejs**
 
 <h3 align="left">Connect with me:</h3>
