@@ -3,9 +3,6 @@
 <img src="https://raw.githubusercontent.com/masood1/masood1/main/images/masood1git.gif" alt="Masood Husssain header image" style="width: 100%;">
 
 
-<h1 align="center">Hi 👋, I'm Masood Hussain</h1>
-<h3 align="center">Frontend Developer</h3>
-
 - 💬 Ask me about **Javascript, React, Vuejs, Nextjs, Nestjs, Nodejs**
 
 <h3 align="left">Connect with me:</h3>
